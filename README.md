@@ -2,9 +2,13 @@
 
 ### Стек:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
-![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoColor=E9D54D)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
-![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoColor=E9D54D)
+![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML)
+![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS)
+![Webpack](https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=Webpack)
+![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git)
+![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
+
 
 
 ### Мои контакты:
