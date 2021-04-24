@@ -3,7 +3,7 @@
 ### Стек:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
-![HTML5](https://img.shields.io/badge/-HTML5L-090909?style=for-the-badge&logo=HTML5)
+![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3)
 ![Webpack](https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=Webpack)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git)
