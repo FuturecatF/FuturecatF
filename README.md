@@ -3,11 +3,11 @@
 ### Стек:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
-![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML)
-![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS)
+![HTML5](https://img.shields.io/badge/-HTML5L-090909?style=for-the-badge&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3)
 ![Webpack](https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=Webpack)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git)
-![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
+![GitHub](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=GitHub) 
 
 
 
