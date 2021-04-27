@@ -4,6 +4,9 @@
 Создан на ванильном JS. <br>
 Стек: grid верстка, адаптивный дизайн, ООП подход, Fetch API, сборка Webpack, Babel.
 
+Сейчас изучаю React и сопутствующий стек на новом учебном проекте.
+Новый проект будет доступен для ознакомления в середине мая!
+
 ### Стек:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
