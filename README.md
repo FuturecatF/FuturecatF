@@ -6,9 +6,9 @@
 Редактирования информации о пользователе и смена аватарки. <br>
 Данные добавляются, сохраняются и принимаются с сервера.
 
-Сейчас изучаю React и сопутствующий стек на новом учебном проекте. <br>
-Переношу проект Mesto на React.js :) <br>
-Новый проект будет доступен для уже совсем скоро!
+Сейчас изучаю React и переношу Mesto на него. <br>
+Ссылка на React версию: [Mesto-React](https://futurecatf.github.io/mesto-react/) :) <br>
+Очень понравился React.Js и как там все устроено в сравнении с обычнымм подходом в JavaScript.
 
 ### Стек:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
