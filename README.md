@@ -1,14 +1,14 @@
 ### Я начинающий frontend разработчик
 
-Учебный проект [Mesto](https://futurecatf.github.io/mesto/) <br>
-Мой первый проект на JavaScript. <br>
-Суть проекта: возможность добавлять и сохранять новые карточки с картинкой и названием. <br>
+Учебный проект [Mesto-Fullstack](https://futurecat.nomoredomains.club/) <br>
+Фулл стек проект с использованием Express, React, MongoDB. <br>
+Проект запущен на ВМ Yandex Cloud. <br>
+Суть проекта: регистрация пользователя, возможность добавлять и сохранять новые карточки с картинкой и названием. <br>
 Редактирования информации о пользователе и смена аватарки. <br>
 Данные добавляются, сохраняются и принимаются с сервера.
 
-Сейчас изучаю React и переношу Mesto на него. <br>
-Ссылка на React версию: [Mesto-React](https://futurecatf.github.io/mesto-react/) :) <br>
-Очень понравился React.Js и как там все устроено в сравнении с обычнымм подходом в JavaScript.
+Сейчас делаю последний проект "дипломная работа", а также изучаю другие технологии redux, redux-saga. <br>
+Ссылка на последний проект с React, redux и saga: [Корзина покупок](https://github.com/FuturecatF/shopping-cart-react-redux) :) <br>
 
 ### Стек:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
@@ -17,7 +17,9 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3)
 ![Webpack](https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=Webpack)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git)
-![GitHub](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=GitHub) 
+![GitHub](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=GitHub)
+![Express](https://img.shields.io/badge/-Express-090909?style=for-the-badge&logo=Express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-090909?style=for-the-badge&logo=MongoDB)
 
 
 
