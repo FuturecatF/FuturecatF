@@ -1,6 +1,6 @@
 ### frontend разработчик
 
-⚡Опыт работы 3 месяца, навыки React, Typescript, Redux, Redux Thunk, Redux Saga, Redux Toolkit, SCSS, БЭМ.
+⚡Адаптивная верстка, CSS, HTML, React, Typescript, Redux, Redux Thunk, Redux Saga, Redux Toolkit, SCSS, БЭМ.
 
 ### Стек:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
